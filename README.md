@@ -11,7 +11,7 @@
 - Python
 - Canva
 - C
--Capcut
+- Capcut
 
 ## Projects and Contributions
 ### Lost and Found System in Canva
